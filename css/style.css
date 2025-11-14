@@ -387,6 +387,7 @@ header .container .social i {
     text-align: center;
     box-shadow: 0 0 10px #8C0E03;
     border-radius: 5px;
+    margin-top: 10px;
     cursor: pointer;
     transition: 0.3s;
     position: relative;
@@ -1364,3 +1365,4 @@ footer .container .section a:hover {
 
 
 /* Btn-Whatsapp */
+
