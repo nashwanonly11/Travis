@@ -643,6 +643,7 @@ header .container .social i {
     text-align: center;
     cursor: pointer;
     border-radius: 5px;
+    margin-top: 20px;
     transition: 0.3s;
     position: relative;
     box-shadow: 0 0 10px #ccc;
@@ -832,6 +833,7 @@ hr {
 .team-box {
     background-color: #F2E5BD;
     border-radius: 10px;
+    margin-top: 10px;
     overflow: hidden;
     transition: 0.3s;
     cursor: pointer;
@@ -1359,5 +1361,6 @@ footer .container .section a:hover {
 .btn-whatsapp i {
     font-size: 30px;
 }
+
 
 /* Btn-Whatsapp */
